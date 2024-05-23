@@ -1,4 +1,4 @@
-# 460 Final Project
+Final Project
 
 ## Instructions for running the program:
 
